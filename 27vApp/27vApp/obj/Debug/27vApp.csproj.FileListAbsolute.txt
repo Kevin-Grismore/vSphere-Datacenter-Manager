@@ -1,0 +1,25 @@
+C:\Users\kevin\source\repos\27vApp\27vApp\bin\Debug\AppUtil.dll
+C:\Users\kevin\source\repos\27vApp\27vApp\bin\Debug\Vim25Service.dll
+C:\Users\kevin\source\repos\27vApp\27vApp\bin\Debug\VMware.Vim.dll
+C:\Users\kevin\source\repos\27vApp\27vApp\bin\Debug\VMware.Security.CredentialStore.dll
+C:\Users\kevin\source\repos\27vApp\27vApp\bin\Debug\STSService.dll
+C:\Users\kevin\source\repos\27vApp\27vApp\bin\Debug\AcquireBearerTokenByUserCredentialSample.exe
+C:\Users\kevin\source\repos\27vApp\27vApp\bin\Debug\VMware.Binding.WsTrust.dll
+C:\Users\kevin\source\repos\27vApp\27vApp\bin\Debug\VimService65.dll
+C:\Users\kevin\source\repos\27vApp\27vApp\bin\Debug\AppUtil.pdb
+C:\Users\kevin\source\repos\27vApp\27vApp\bin\Debug\VMware.Security.CredentialStore.pdb
+C:\Users\kevin\source\repos\27vApp\27vApp\bin\Debug\AcquireBearerTokenByUserCredentialSample.pdb
+C:\Users\kevin\source\repos\27vApp\27vApp\bin\Debug\AcquireBearerTokenByUserCredentialSample.exe.config
+C:\Users\kevin\source\repos\27vApp\27vApp\bin\Debug\VMware.Binding.WsTrust.pdb
+C:\Users\kevin\source\repos\27vApp\27vApp\obj\Debug\27vApp.csprojAssemblyReference.cache
+C:\Users\kevin\source\repos\27vApp\27vApp\obj\Debug\_27vApp.Form1.resources
+C:\Users\kevin\source\repos\27vApp\27vApp\obj\Debug\_27vApp.Properties.Resources.resources
+C:\Users\kevin\source\repos\27vApp\27vApp\obj\Debug\27vApp.csproj.GenerateResource.cache
+C:\Users\kevin\source\repos\27vApp\27vApp\obj\Debug\27vApp.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\27vApp\27vApp\obj\Debug\27vApp.csproj.CopyComplete
+C:\Users\kevin\source\repos\27vApp\27vApp\obj\Debug\_27vApp.AddKit.resources
+C:\Users\kevin\source\repos\27vApp\27vApp\bin\Debug\27v Datacenter Manager.exe.config
+C:\Users\kevin\source\repos\27vApp\27vApp\bin\Debug\27v Datacenter Manager.exe
+C:\Users\kevin\source\repos\27vApp\27vApp\bin\Debug\27v Datacenter Manager.pdb
+C:\Users\kevin\source\repos\27vApp\27vApp\obj\Debug\27v Datacenter Manager.exe
+C:\Users\kevin\source\repos\27vApp\27vApp\obj\Debug\27v Datacenter Manager.pdb
